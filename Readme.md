@@ -9,7 +9,6 @@ This repo involves generating association rules from a transaction dataset using
 3. [Results](#results)
 4. [Repository Structure](#repository-structure)
 5. [How to Run the Notebook](#how-to-run-the-notebook)
-6. [License](#license)
 
 ## Overview
 
